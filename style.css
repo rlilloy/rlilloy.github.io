@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background: #ffffff;
+  color: #111;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 720px;
+  margin: 80px auto;
+  padding: 0 20px;
+}
+
+.hero {
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #333;
+}
+
+h2 {
+  font-size: 22px;
+  margin: 50px 0 15px;
+  font-weight: normal;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+ul {
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+.cta {
+  margin-top: 80px;
+  padding-top: 40px;
+  border-top: 1px solid #ddd;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 18px;
+  border: 1px solid #111;
+  color: #111;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.button:hover {
+  background: #111;
+  color: #fff;
+}
