@@ -11,6 +11,51 @@ body {
   line-height: 1.6;
 }
 
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  padding: 18px 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.menu a {
+  color: #555;
+  text-decoration: none;
+  font-size: 16px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid transparent;
+}
+
+.menu a:hover,
+.menu a.active {
+  color: #111;
+  border-bottom-color: #111;
+}
+
+.seccion {
+  font-size: 14px;
+  font-weight: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #777;
+  margin: 50px 0 0;
+}
+
+.escritos {
+  list-style: none;
+  margin-left: 0;
+}
+
+.escritos li {
+  padding: 24px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.escritos h2 {
+  margin: 0 0 8px;
+}
+
 .container {
   max-width: 720px;
   margin: 80px auto;

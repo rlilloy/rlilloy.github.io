@@ -1,0 +1,13 @@
+# Bugs y pendientes
+
+- [ ] **Cartas Creativas Cuarta Ola — página "Quién soy" desactualizada.**
+  Dice "Curso Taller Escribe tu libro en 6 meses" y remite a Incubook.com.
+  La oferta actual es el taller de 9 meses en raullilloy.com. Corregir en el
+  documento original (`H:\doc\caras creatvias\`). El fragmento publicado
+  (`docs/cartas-cuarta-ola-fragmento.pdf`) no incluye esa página.
+- [ ] **Cartas Creativas Cuarta Ola — falta enlace de compra.**
+  En "Mis escritos" solo hay un fragmento. Si el libro está en Amazon,
+  agregar el botón "Ver en Amazon" con su enlace directo.
+- [ ] **index.html — párrafos duplicados.**
+  "Nos juntamos una hora por semana…" aparece dos veces (la primera con la
+  errata "conversamoss") y "El trabajo atraviesa estas etapas…" también.

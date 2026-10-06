@@ -1,0 +1,3 @@
+# GitHub Pages: archivos internos que no se publican en el sitio
+exclude:
+  - BUGS.md
